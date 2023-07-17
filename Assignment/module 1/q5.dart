@@ -6,3 +6,4 @@ void main() {
   Triangle = 1 / 2 * base * hight;
   print('Area of Circle = $Triangle');
 }
+   
